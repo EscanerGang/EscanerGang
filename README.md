@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Working on projects at [Zaryx Studios](https://github.com/ZaryxStudios).<br>📕 Student.<br>🎮 I love playing video games, and creating them too.<br>🔭 Passionate about programming and computer science in general.
+🏳️I am from Madrid, Spain 🇪🇸<br>💻 Working on projects at [Zaryx Studios](https://github.com/ZaryxStudios).<br>📕 Student.<br>🎮 I love playing video games, and creating them too.<br>🔭 Passionate about programming and computer science in general.
 
 
 # 💻 Tech Stack:
